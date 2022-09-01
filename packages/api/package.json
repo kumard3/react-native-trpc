@@ -1,0 +1,13 @@
+{
+  "name": "@zart/api",
+  "version": "0.0.1",
+  "author": "KATT",
+  "license": "MIT",
+  "private": true,
+  "files": [
+    "src"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
